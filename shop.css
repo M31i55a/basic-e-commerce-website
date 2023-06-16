@@ -1,0 +1,30 @@
+#product img {
+    height: 29rem;
+  }
+  .pagination {
+    display: flex;
+    border: 2px solid brown;
+    margin: 2rem;
+    list-style: none;
+  }
+  .container {
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .pages-switcher ul li {
+    border: 2px solid black;
+    margin: 0.5rem;
+    font-size: 2rem;
+    width: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .pages-switcher ul li:hover{
+    background-color: orange;
+  }
+  .pages-switcher a {
+    color: black;
+  }
