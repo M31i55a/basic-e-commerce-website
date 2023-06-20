@@ -24,6 +24,7 @@
   }
   .pages-switcher ul li:hover{
     background-color: orange;
+    background: linear-gradient();
   }
   .pages-switcher a {
     color: black;
